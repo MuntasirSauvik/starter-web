@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Muntasir Sauvik		muntasir.sauvik@usask.ca	facebook.com/muntasir.sauvik
 
 # THANKS
 
